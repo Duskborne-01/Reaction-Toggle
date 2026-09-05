@@ -99,6 +99,6 @@ input:checked ~ label::after {
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.right .span {
+.right .name {
   font-family: cursive, sans-serif;
 }
