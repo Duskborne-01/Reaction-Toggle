@@ -100,5 +100,6 @@ input:checked ~ label::after {
 }
 
 .right .name {
+  display: inline-block;
   font-family: cursive, sans-serif;
 }
